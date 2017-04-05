@@ -9,4 +9,4 @@ Get Json from certain url and draw diagram based on json data.
 2. Execute html file then you could enjoy result :) 
 
 ## Authors ##
-Bill Richard - Initial Worker
+Webmaster444 - Initial Worker
